@@ -363,7 +363,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 Para soporte técnico o preguntas:
 
-- **Email:** soporte@ingeneo.com
+- **Email:** soporte.easysensor@ingeneo.com
 - **Issues:** [GitHub Issues](https://github.com/tu-usuario/ScanPrefrio/issues)
 - **Documentación:** [Wiki del Proyecto](https://github.com/tu-usuario/ScanPrefrio/wiki)
 
