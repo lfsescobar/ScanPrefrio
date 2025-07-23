@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">hub.iws-iot.com</domain>
+        <domain includeSubdomains="true">services.iws-iot.com</domain>
+    </domain-config>
+</network-security-config>
